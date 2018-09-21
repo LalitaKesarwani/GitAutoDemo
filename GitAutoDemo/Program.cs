@@ -10,6 +10,7 @@ namespace GitAutoDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi World.");
         }
     }
 }
